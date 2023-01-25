@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=500&pause=1000&color=D4BD00&width=435&lines=Ordenar+Propriedades+de+CSS)](https://git.io/typing-svg)
+<br/>
 Atividade desenvolvida no 5º módulo do curso de Desenvolvimento WEB FullStack no programa, programadores carioca (resilia+senac).
 
 📌 Proposta
