@@ -12,7 +12,7 @@ O código deve rodar em um laço que vai receber propriedades até a pessoa digi
 <br/>
 Clone o Repositório https://github.com/bedibe/Projeto-node-css
 <hr>
- Acesse a pasta do projeto no terminal/cmd:cd Projeto-node-css
+ Acesse a pasta do projeto no terminal/cmd: cd Projeto-node-css
 <br/>
 <h2> Comandos no terminal</h2>
 npm init
