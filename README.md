@@ -9,12 +9,14 @@ Usar o Node para montar um código que recebe uma lista de propriedades de CSS (
 O código deve rodar em um laço que vai receber propriedades até a pessoa digitar a palavra SAIR, quando isso acontecer vai ser impresso no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 <br/>
 <h1>COMANDOS</h1>
+ ```bash
 #Clone o Repositório
 $ git repo clone https://github.com/bedibe/Projeto-node-css
 # Acesse a pasta do projeto no terminal/cmd
 $cd Projeto-node-css
+```
 <br/>
-
+<h2> Comandos no terminal</h2>
 ![projeto](https://user-images.githubusercontent.com/112554325/216590001-ebb01fff-1608-4f77-8cad-a98616598bd6.png)
 
 
